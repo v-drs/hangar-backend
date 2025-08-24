@@ -1,2 +1,3 @@
-# hangar-backend
-This python repo is for iaac, Last change was done by Vladimir Duris
+#This prod python in backend repository is for iaac only!
+Last change done by user: Vladimir Duris
+Serus
